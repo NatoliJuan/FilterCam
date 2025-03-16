@@ -47,6 +47,8 @@ Este proyecto es una aplicación interactiva en Python que permite procesar vide
     ```bash
     python main.py
     ```
-
+5. Cambia de filtros:
+``` Con los números del 1 al 6 se puede activar y desactivar los filtros
+    ```
 ## Autor
 Juan Natoli
