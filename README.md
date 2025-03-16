@@ -1,4 +1,4 @@
-# Video Insigths
+# FilterCam
 
 <img src="img/opencv.jpg" alt="Logo opencv" width="300">
 
