@@ -31,6 +31,7 @@ Este proyecto es una aplicación interactiva en Python que permite procesar vide
     pip install opencv-python
     ```
 3. Configura el tipo de entrada:
+    - Descomenta el input deseado:
     - Para usar un archivo de video local:
         ```python
         INPUT = Archivo("video.mp4")
@@ -49,11 +50,11 @@ Este proyecto es una aplicación interactiva en Python que permite procesar vide
         #INPUT = WebCam()
         INPUT = Rtsp(ip="ip_videograbador",port="554", user="user", pwd ="Password")
         ```
-4. Ejecuta el script:
+5. Ejecuta el script:
     ```bash
     python main.py
     ```
-5. Cambia de filtros:
+6. Cambia de filtros:
     ```Con los números del 1 al 6 se puede activar y desactivar los filtros
     ```
 ## **Autor**
