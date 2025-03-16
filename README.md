@@ -25,12 +25,11 @@ Este proyecto es una aplicación interactiva en Python que permite procesar vide
 - **Clasificador Haar de OpenCV**: Para la detección de rostros en imágenes.
 
 ## **Instrucciones de uso**
-1. Clona este repositorio en tu máquina local.
-2. Instala las dependencias necesarias:
+1. Instala las dependencias necesarias:
     ```bash
     pip install opencv-python
     ```
-3. Configura el tipo de entrada:
+2. Configura el tipo de entrada:
     - Descomenta el input deseado:
     - Para usar un archivo de video local:
         ```python
@@ -50,11 +49,11 @@ Este proyecto es una aplicación interactiva en Python que permite procesar vide
         #INPUT = WebCam()
         INPUT = Rtsp(ip="ip_videograbador",port="554", user="user", pwd ="Password")
         ```
-5. Ejecuta el script:
+3. Ejecuta el script:
     ```bash
     python main.py
     ```
-6. Cambia de filtros:<br>
+4. Cambia de filtros:<br>
    Con los números del 1 al 6 puedes activar y desactivar los filtros.  
 
 ## **Autor**
