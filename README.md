@@ -55,8 +55,7 @@ Este proyecto es una aplicación interactiva en Python que permite procesar vide
     python main.py
     ```
 6. Cambia de filtros:
-    ```Con los números del 1 al 6 se puede activar y desactivar los filtros
-    ```
+Con los números del 1 al 6 se puede activar y desactivar los filtros.
 
 ## **Autor**
 Juan Natoli
