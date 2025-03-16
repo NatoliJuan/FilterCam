@@ -2,8 +2,6 @@
 
 <img src="img/opencv.jpg" alt="Logo opencv" width="300">
 
-# **Video Processing with Filters and Face Detection**
-
 Este proyecto es una aplicación interactiva en Python que permite procesar video en tiempo real, aplicar filtros visuales y detectar rostros. El proyecto utiliza **OpenCV** para capturar y manipular imágenes y videos en directo, y proporciona una interfaz donde los usuarios pueden activar y desactivar diferentes filtros en tiempo real mediante teclas del teclado.
 
 ## **Características**
