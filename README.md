@@ -86,5 +86,5 @@ La aplicación permite al usuario controlar el flujo de la aplicación mediante 
 
 - **Guardado de resultados**: Los frames procesados se almacenan en una lista y luego se guardan en un video al final de la ejecución del programa. Esto permite al usuario guardar el resultado de la aplicación de filtros en tiempo real.
 
-## **Autor**
+## ✍️ **Autor**
 Juan Natoli
